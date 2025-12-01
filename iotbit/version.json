@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
-  "download": "iotbit.{version}.bin",
-  "hash": "c803b150fa54e7107647b0b536a3aac26a01ee24135d0933ce4f2ce9f5b99d00"
+  "version": "0.2.0",
+  "download": "{version}/iotbit.bin",
+  "hash": "164842cebf0ae6dcf306f4d7335b9b7e446d2e8260dfac8ed461971af5d28fde"
 }
